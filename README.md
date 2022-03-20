@@ -1,0 +1,1 @@
+# algorithm_chain_of_numbers_in_square
