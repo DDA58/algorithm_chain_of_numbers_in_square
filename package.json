@@ -1,0 +1,30 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "App does chain numbers in square",
+  "main": "dist/app.js",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "inquirer": "^8.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "start": "node dist/app.js run",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDA58/algorithm_chain_of_numbers_in_square.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DDA58/algorithm_chain_of_numbers_in_square/issues"
+  },
+  "homepage": "https://github.com/DDA58/algorithm_chain_of_numbers_in_square#readme"
+}
